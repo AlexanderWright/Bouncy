@@ -1,5 +1,5 @@
 {
-    "name": "fadion/bouncy",
+    "name": "alexanderwright/bouncy",
     "description": "Map Elasticsearch results to Eloquent models",
     "license": "MIT",
     "keywords": ["laravel", "elasticsearch", "eloquent"],
@@ -8,6 +8,10 @@
             "name": "Fadion Dashi",
             "email": "jonidashi@gmail.com",
             "homepage": "http://www.streha.al"
+        },
+        {
+            "name": "Alexander Wright",
+            "email": "alexander@silverfish-design.co.uk"
         }
     ],
     "require": {
